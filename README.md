@@ -1,6 +1,6 @@
-# ENTRUST (Laravel 6 Package)
+# ENTRUST (Laravel 7 Package)
 
-Fork from [Zizaco/entrust](https://github.com/Zizaco/entrust) to make it work in Laravel 6.
+Fork from [Zizaco/entrust](https://github.com/Zizaco/entrust) to make it work in Laravel 7.
 
 ## Contents
 
@@ -30,7 +30,7 @@ Fork from [Zizaco/entrust](https://github.com/Zizaco/entrust) to make it work in
 1) In order to install Laravel 5 Entrust, just add the following to your composer.json. Then run `composer update`:
 
 ```json
-"starck-enterprises/entrust": "^6.0"
+"starck-enterprises/entrust": "^7.0"
 ```
 
 2) Open your `config/app.php` and add the following to the `providers` array:
